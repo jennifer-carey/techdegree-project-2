@@ -133,9 +133,10 @@ img {
   font-weight: bold;
 }
 
-/* ==================================
- This is where I am struggling!! 
- ================================== */
+footer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
 footer h2 {
   float: left;
@@ -148,11 +149,15 @@ footer h2 {
 
 .footer-nav {
   text-align: right;
-  display: inline-block;
 }
 
 .footer-nav li {
   margin-right: 20px;
+}
+
+.footer-nav li:hover {
+  font-weight: bold;
+  color: tomato;
 }
 
 .top,
