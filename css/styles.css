@@ -221,6 +221,10 @@ footer h2 {
     width: 50%;   
   }
 
+  .skills-section {
+    clear: both;
+  }
+
   .top {
     display: none;
   }
@@ -269,11 +273,12 @@ footer h2 {
   .profile-pic {
     float: right;
     width: 40%;
+    clear: right;
   }
 
   header p {
-    float: right;
-    width: 60%;
+    float: left;
+    width: 55%;
     text-align: left;
   }
 
@@ -289,7 +294,11 @@ footer h2 {
   .card-5,
   .card-6 {
     float: left; 
-    width: 33%;   
+    width: 33%;  
+  }
+
+  .skills-section {
+    clear: both;
   }
 
   .contact-details {
