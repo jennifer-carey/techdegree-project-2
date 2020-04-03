@@ -19,8 +19,9 @@ h1 {
 }
 
 h1, 
-h2 {
-  font-family: 'Open Sans Condensed', sans-serif;
+h2,
+h3 {
+  font-family: 'Oswald', sans-serif;
 }
 
 h3 {
