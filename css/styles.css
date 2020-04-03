@@ -6,7 +6,6 @@
     box-sizing: border-box;
   }
 
-
 body {
     background-color: #f5f7f9;
     color: #363c41;
@@ -42,10 +41,6 @@ a {
   text-decoration: none;
 }
 
-img {
-  max-width: 100%;
-}
-
 
 /* ===============================
    Base Layout Styles 
@@ -73,7 +68,6 @@ img {
 .main-nav a {
   display:block;
 }
-
 
 /* ---- Containers ---- */
 
